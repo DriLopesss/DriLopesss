@@ -15,7 +15,7 @@ Sou estudante de **Engenharia de Software** (7º semestre) na **FIAP** em São P
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
 | **MeterWatt ⚡** | Finalista NEXT FIAP 2023. Monitoramento de energia com IoT e Dashboards. | [Ver Repo](https://github.com/DriLopesss/MeterWatt) |
-| **Labubus Game 🎮** | Jogo desenvolvido em Unreal Engine com mecânicas avançadas. | [Ver Repo](#) |
+| **Labubus Game 🎮** | Jogo desenvolvido em Unreal Engine. | [Ver Repo](#) |
 
 ## 🛠️ Technologies & Tools
 
