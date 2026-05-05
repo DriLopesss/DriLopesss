@@ -2,7 +2,7 @@
 
 [![linkedin link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-lopes-santana-352692293)
 [![github link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DriLopesss)
-[![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/user/ptau0u3tizmpcaqkv366gbg2j?si=8af5de48329c4906])
+([[![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ptau0u3tizmpcaqkv366gbg2j)])
 
 ## Sobre mim (about me)
 
